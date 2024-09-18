@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "eefdd39f662e73fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6d4fc0ddd454af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f201901ac9db359",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d6a051e8e3c79d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3137ae7e5b09783a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4edbc8e0c6f59fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cd7d9ef327ae57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a720e40666516ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08b8675aa458893a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4c87c6aea7d9205b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3282a4b5084ef4f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ed458481e2004f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0e6cf42a3049699",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2fdfa145b8eec03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8983f9a0a1c3cd6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8d6a051e8e3c79d6",
+  "lastOpenFiles": [
+    "Spring Boot Start.md",
+    "스프링 부트 웹개발 기초.md",
+    "MVC.md",
+    "Spring MVC.md",
+    "Spring 소개와 학습.md",
+    "Spring Start.md",
+    "Servlet & Spring Web MVC.md",
+    "회원 관리 예제 - 백엔드 개발.md",
+    "Pasted image 20240918213409.png",
+    "Pasted image 20240918213323.png",
+    "Pasted image 20240918210336.png",
+    "Pasted image 20240918210334.png",
+    "Pasted image 20240918205828.png",
+    "Pasted image 20240918205602.png",
+    "Pasted image 20240918205544.png",
+    "Pasted image 20240918204920.png",
+    "Pasted image 20240918204502.png",
+    "Pasted image 20240918203548.png",
+    "스프링 웹개발 기초.pdf",
+    "도커.md"
+  ]
+}
