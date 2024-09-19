@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6d4fc0ddd454af",
+        "id": "f39793b431c97258",
         "type": "tabs",
         "children": [
           {
-            "id": "4f201901ac9db359",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d6a051e8e3c79d6",
+            "id": "771b8ee75c9fc73c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4c87c6aea7d9205b",
@@ -147,26 +139,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8d6a051e8e3c79d6",
+  "active": "771b8ee75c9fc73c",
   "lastOpenFiles": [
-    "Spring Boot Start.md",
-    "스프링 부트 웹개발 기초.md",
+    "Spring Start.md",
+    "Spring Boot/무제 파일.md",
+    "Spring Boot",
+    "느슨한 결합력과 인터페이스.md",
+    "Pasted image 20240919194142.png",
+    "Pasted image 20240919193717.png",
+    "Pasted image 20240919193157.png",
+    "Pasted image 20240919192241.png",
+    "Pasted image 20240919191953.png",
+    "Pasted image 20240919191606.png",
+    "Pasted image 20240919191448.png",
+    "Pasted image 20240919190520.png",
+    "Pasted image 20240919190511.png",
+    "Pasted image 20240919190441.png",
+    "Spring 소개와 학습.md",
+    "Servlet & Spring Web MVC.md",
     "MVC.md",
     "Spring MVC.md",
-    "Spring 소개와 학습.md",
-    "Spring Start.md",
-    "Servlet & Spring Web MVC.md",
+    "MVC1.md",
+    "MVC2.md",
+    "Spring Boot Start.md",
+    "스프링 부트 웹개발 기초.md",
     "회원 관리 예제 - 백엔드 개발.md",
-    "Pasted image 20240918213409.png",
-    "Pasted image 20240918213323.png",
-    "Pasted image 20240918210336.png",
-    "Pasted image 20240918210334.png",
-    "Pasted image 20240918205828.png",
-    "Pasted image 20240918205602.png",
-    "Pasted image 20240918205544.png",
-    "Pasted image 20240918204920.png",
-    "Pasted image 20240918204502.png",
-    "Pasted image 20240918203548.png",
     "스프링 웹개발 기초.pdf",
     "도커.md"
   ]
