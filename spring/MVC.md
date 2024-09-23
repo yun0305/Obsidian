@@ -16,7 +16,7 @@
 
 	먼저 사용자가 구글에 "코딩"이라고 검색을 한다. 그럼 Controller는 사용자의 요청을
 	받아 "코딩"이라는 검색 데이터를 달라고 Model한테 요청을 한다. 그럼 Model은 
-	검색 결과 데이터를 찾아서 Controller한테 전달하게 되고 컨트롤러는 다시 View한테 전
+	검색 결과 데이터를 찾아서 Controller한테 전달하게 되고 Controller는 다시 View한테 전
 	달하게 된다. View는 사용자가 보는 UI에 검색 결과 데이터를 사용자에세 보여준다.
 
 	Model : 데이터와 관련된 일을 하는곳
@@ -34,7 +34,6 @@
 	모델 클래스에서 컨트롤러와 View의 클래스를 import해서 사용하면 안된다는 거다
 	
 2.View는 Model에만 의존해야 하고, Controller에는 의존하면 안 된다.
-	Controller에는 의존하면 안 된다.
 	(View 내부에 Model의 코드만 있을 수 있고, Controller의 코드가 있으면 안된다.)
 	
 	![[Pasted image 20240918204920.png]]
