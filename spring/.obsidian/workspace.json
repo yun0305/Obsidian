@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f39793b431c97258",
+        "id": "d1845aae0badca4e",
         "type": "tabs",
         "children": [
           {
-            "id": "771b8ee75c9fc73c",
+            "id": "dc37544957d58438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DI.md",
+                "file": "라이브러리 살펴보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DI.md",
+                "file": "라이브러리 살펴보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DI.md",
+                "file": "라이브러리 살펴보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DI.md"
+                "file": "라이브러리 살펴보기.md"
               }
             }
           }
@@ -140,41 +140,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "771b8ee75c9fc73c",
+  "active": "dc37544957d58438",
   "lastOpenFiles": [
-    "느슨한 결합력과 인터페이스.md",
+    "Pasted image 20240927032426.png",
+    "라이브러리 살펴보기.md",
+    "스프링 부트 웹개발 기초.md",
+    "회원 관리 예제 - 백엔드 개발.md",
+    "프로젝트 생성.md",
+    "Pasted image 20240927031115.png",
+    "Pasted image 20240927031008.png",
+    "Pasted image 20240927030855.png",
+    "Pasted image 20240927030745.png",
+    "Pasted image 20240927030607.png",
+    "Pasted image 20240927025857.png",
+    "Pasted image 20240927025823.png",
+    "Pasted image 20240927025741.png",
+    "Pasted image 20240927025646.png",
+    "Pasted image 20240927024552.png",
+    "Spring.md",
+    "Spring LoC 컨테이너 이용하기.md",
+    "Spring Bean Configuration.md",
+    "Dependency 직접 Injection 하기.md",
+    "IOC컨테이너.md",
     "DI.md",
-    "Servlet & Spring Web MVC.md",
+    "Spring Start.md",
     "Spring MVC.md",
+    "Servlet & Spring Web MVC.md",
+    "느슨한 결합력과 인터페이스.md",
     "MVC2.md",
     "MVC1.md",
     "MVC.md",
-    "Spring Start.md",
-    "Spring Boot Start.md",
     "Spring 소개와 학습.md",
     "무제 파일.canvas",
     "Spring Boot/무제 파일.md",
     "Spring Boot",
-    "Pasted image 20240919194142.png",
-    "Pasted image 20240919193717.png",
-    "Pasted image 20240919193157.png",
-    "Pasted image 20240919192241.png",
-    "Pasted image 20240919191953.png",
-    "Pasted image 20240919191606.png",
-    "Pasted image 20240919191448.png",
-    "Pasted image 20240919190520.png",
-    "Pasted image 20240919190511.png",
-    "Pasted image 20240919190441.png",
-    "스프링 부트 웹개발 기초.md",
-    "회원 관리 예제 - 백엔드 개발.md",
     "스프링 웹개발 기초.pdf",
     "도커.md"
   ]
